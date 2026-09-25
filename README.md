@@ -1,20 +1,16 @@
-# Step_semester_3
+# STEP Semester 3 — Week 6
+## Inheritance & Polymorphism
 
-- Created `feature/session_5` for Week 5 work.
+## Class Problems
+1. Ticket Hierarchy Foundation & Batch Registration Validator
+2. Three Shapes of One Family Tree
+3. Late-Registration Penalty Override & Audit Trail
+4. Nightly Ticket Announcer
+5. Fest-Wide Ticket Issuance & Nightly Settlement
 
-- Completed 5 class problems:
-  - Field Visibility & Intake Validator
-  - Cross-Package Inheritance Reach
-  - Vitals Monitoring Encapsulation Guard
-  - PatientProfile JavaBean, Chained Constructors & Locker PIN
-  - Immutable Discharge Summary & Nightly Ledger
-
-- Completed 5 assignment problems:
-  - Membership Field Reach Checker
-  - Reference Desk Subclass Reach
-  - Book Copy Circulation Guard
-  - LibraryMember JavaBean, Chained Constructors & Security Answer
-  - Immutable Loan Receipt & Nightly Circulation Ledger
-
-- Practiced access modifiers, encapsulation, inheritance, constructor chaining, JavaBeans, defensive copying, and immutability.
-- Tested the programs and verified the expected outputs.
+## Assignment Problems
+1. Race Entry Foundation & Batch Bib Validator
+2. Three Shapes of One Race Family
+3. Late-Withdrawal Penalty Override & Audit Trail
+4. Race-Day Announcer Board
+5. Race-Wide Bib Issuance & Nightly Settlement
