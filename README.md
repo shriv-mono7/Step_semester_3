@@ -1,33 +1,22 @@
-# STEP Semester 3
+# Step_semester_3
 
-This repository contains my work and learning progress throughout STEP Semester 3.
+# Day 8
 
-It includes programming exercises, class problems, assignments, practice programs, and other work completed during the semester.
+## Today's Work
 
----
-
-## 📂 Repository Structure
-
-The repository is organized into separate folders based on the weeks/days of the semester.
-
-Each week may contain its own class problems, assignments, practice programs, and documentation.
-
-```text
-Step_semester_3/
-│
-├── src/
-│   └── main/
-│       └── java/
-│           ├── Day1/
-│           ├── Day2/
-│           ├── Day3/
-│           ├── Day4/
-│           ├── Day5/
-│           ├── Day6/
-│           ├── ...
-│           └── DayN/
-│
-├── .vscode/
-├── lib/
-├── .gitignore
-└── README.md
+- Created `feature/session_8` for Day 8 work.
+- Completed 5 class problems:
+  - Online Examination System
+  - Vehicle Rental System with Dynamic Pricing
+  - Hotel Booking and Cancellation System
+  - Employee Leave Request Management
+  - Food Order and Flexible Payment System
+- Completed 5 assignment problems:
+  - The Code Sprint Judging Desk
+  - The SwiftShip Parcel Tracker
+  - The Smart Lab Control Panel
+  - The Elective Seat Rush
+  - The Campus Canteen Smart Card
+- Practiced object-oriented programming concepts, including classes, objects, encapsulation, abstraction, inheritance, polymorphism, and interfaces.
+- Practiced collections, input validation, status management, dynamic pricing, booking operations, and flexible payment methods.
+- Tested the programs and verified the expected outputs.
