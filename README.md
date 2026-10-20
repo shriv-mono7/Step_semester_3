@@ -1,33 +1,20 @@
-# STEP Semester 3
+# Step_semester_3
 
-This repository contains my work and learning progress throughout STEP Semester 3.
+# Day 9
 
-It includes programming exercises, class problems, assignments, practice programs, and other work completed during the semester.
+## Today's Work
 
----
-
-## 📂 Repository Structure
-
-The repository is organized into separate folders based on the weeks/days of the semester.
-
-Each week may contain its own class problems, assignments, practice programs, and documentation.
-
-```text
-Step_semester_3/
-│
-├── src/
-│   └── main/
-│       └── java/
-│           ├── Day1/
-│           ├── Day2/
-│           ├── Day3/
-│           ├── Day4/
-│           ├── Day5/
-│           ├── Day6/
-│           ├── ...
-│           └── DayN/
-│
-├── .vscode/
-├── lib/
-├── .gitignore
-└── README.md
+- Created `feature/session_9` for Day 9 work.
+- Completed 4 class problems:
+  - Pair Sum in a Sorted Array
+  - Warehouse Bin Grid Scan
+  - Library Catalog Lookup
+  - Maximum Sum Subarray of Fixed Size K
+- Completed 5 assignment problems:
+  - Mall Footfall Range Report
+  - Longest Budget-Friendly Streak
+  - Net-Balance Period Counter
+  - Exam Score Band Counter
+  - Spiral Stock Audit Route
+- Practiced arrays, two pointers, sliding window, prefix sums, hashing, binary search, and 2D array traversal.
+- Tested the programs and verified the expected outputs.
