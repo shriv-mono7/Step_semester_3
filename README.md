@@ -1,33 +1,21 @@
-# STEP Semester 3
+# Step_semester_3
 
-This repository contains my work and learning progress throughout STEP Semester 3.
+# Day 10
 
-It includes programming exercises, class problems, assignments, practice programs, and other work completed during the semester.
+## Today's Work
 
----
-
-## 📂 Repository Structure
-
-The repository is organized into separate folders based on the weeks/days of the semester.
-
-Each week may contain its own class problems, assignments, practice programs, and documentation.
-
-```text
-Step_semester_3/
-│
-├── src/
-│   └── main/
-│       └── java/
-│           ├── Day1/
-│           ├── Day2/
-│           ├── Day3/
-│           ├── Day4/
-│           ├── Day5/
-│           ├── Day6/
-│           ├── ...
-│           └── DayN/
-│
-├── .vscode/
-├── lib/
-├── .gitignore
-└── README.md
+- Created `feature/session_10` for Day 10 work.
+- Completed 5 class problems:
+  - Smart Home Platform
+  - Customer Registry
+  - Student Marks Grid
+  - Product Price Finder
+  - Library Platform
+- Completed 5 assignment problems:
+  - Cancelling the k-th Last Order
+  - Campus Portal Browser History
+  - Merging Two Ticket Counters
+  - The Palindrome Train Code
+  - Polynomial Calculator
+- Practiced OOP, hashing, binary search, arrays, singly linked lists, doubly linked lists, and polynomial addition.
+- Tested the programs and verified the expected outputs.
